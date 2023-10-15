@@ -1,2 +1,2 @@
 # dadJokes
-(Demo)[https://phpfromkarakol.github.io/dadJokes/]
+[Demo]{https://phpfromkarakol.github.io/dadJokes/)
